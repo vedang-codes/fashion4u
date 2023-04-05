@@ -4,9 +4,9 @@ Link to the website on uwindsor domain.
  
  
  Team Members:
- 1) @aksh0010
- 2) @vedang-codes
- 3) @nirajpashandu
+ 1) Aksh Patel
+ 2) Vedang Patel
+ 3) Niraj Pashandu
  4) Matt Randazzo
  
 
