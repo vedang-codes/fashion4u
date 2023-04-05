@@ -5,7 +5,7 @@ Link to the website on uwindsor domain.
  
  Team Members:
  1) Aksh Patel
- 2) Vedang Patel
+ 2) Vedang Patel (Myself)
  3) Niraj Pashandu
  4) Matt Randazzo
  
